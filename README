@@ -1,0 +1,5 @@
+Make a Code Breaker Game
+
+Level 1 - Make the Game work with 4 digits
+Level 2 - Have the game record high scores to a text file
+Level 3 - Make the game with either a variable number of digits (the user chooses) OR using a graphical user interface
